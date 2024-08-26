@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ironabhi05
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
