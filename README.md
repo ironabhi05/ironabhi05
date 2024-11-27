@@ -1,6 +1,8 @@
 # 💫 About Me:
 - 👋 Hi, I’m @ABHINAV MISHRA<br>- 👀 I’m interested in Web Developing & Data Science also<br>- 🌱 I’m currently learning MERN Technology<br>- 🌱I'm completing DSA in JAVA with solving Questions  <br>- 💞️ I’m looking to collaborate on <br>- 📫 E-mail :- ironabhi728@gmail.com
 
+Currently employed at DIGICODERS PVT. LTD. as a MERN Stack Developer, with core responsibilities encompassing API development, front-end engineering, Python programming, database management (DBMS), and version control using Git and GitHub. Possess strong expertise in Data Structures and Algorithms (DSA) with Java.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pt_ironabhi_05/) 
@@ -22,5 +24,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ironabhi05 &icon=2&color=0)](https://visitcount.itsvg.in)
 
-Currently employed at DIGICODERS PVT. LTD. as a MERN Stack Developer, with core responsibilities encompassing API development, front-end engineering, Python programming, database management (DBMS), and version control using Git and GitHub. Possess strong expertise in Data Structures and Algorithms (DSA) with Java.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
