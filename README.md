@@ -8,7 +8,7 @@
   <table style="border-collapse: collapse; margin: 20px auto; background: linear-gradient(135deg, #0D1117, #1a1a2e); border-radius: 20px; overflow: hidden; box-shadow: 0 0 40px rgba(0, 255, 65, 0.3);">
     <tr>
       <td>
-      <h1 style="color: #00FF41; font-family: 'Courier New', monospace; font-size: 19px; text-shadow: 0 0 10px #00FF41; margin: 8px 0;">
+      <h1 style="color: #00FF41; font-family: 'Courier New', monospace; font-size: 17px; text-shadow: 0 0 10px #00FF41; margin: 8px 0;">
           ◢◣◥◤◢◣ Full Stack Developer ◢◣◥◤◢◣
     </h1>
  <h3 style="color: #1E90FF; font-family: 'Courier New', monospace; font-size: 16px; text-shadow: 0 0 8px #1E90FF; margin: 8px 0;">
@@ -27,11 +27,7 @@
     ◢◣◥◤◢◣ AI-Powered Development & Automation ◢◣◥◤◢◣
   </h3>
 
-<h3 style="color: #FF69B4; font-family: 'Courier New', monospace; font-size: 16px; text-shadow: 0 0 8px #FF69B4; margin: 8px 0;">
-  ◥◤◢◣◥◤ Cybersecurity & Ethical Hacking Learner ◥◤◢◣◥◤
-</h3>
-
-<h3 style="color: #7FFF00; font-family: 'Courier New', monospace; font-size: 16px; text-shadow: 0 0 8px #7FFF00; margin: 8px 0;">
+<h3 style="color: #7FFF00; font-family: 'Courier New', monospace; font-size: 14px; text-shadow: 0 0 8px #7FFF00; margin: 8px 0;">
   ◢◣◥◤◢◣ DevOps & Cloud Automation (Azure / AWS) ◢◣◥◤◢◣
 </h3>
       </td>
