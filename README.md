@@ -36,7 +36,7 @@
 </h3>
       </td>
       <td style="padding: 10px; vertical-align: middle; background: radial-gradient(circle, rgba(0, 255, 65, 0.1), transparent);">
-        <img src="./Images/Cyclon.gif" alt="Tech Animation" width="270" style="border-radius: 20px; box-shadow: 0 0 30px rgba(0, 255, 65, 0.5), inset 0 0 30px rgba(0, 255, 65, 0.1); border: 2px solid #00FF41;"/>
+        <img src="./Images/Cyclone.gif" alt="Tech Animation" width="270" style="border-radius: 20px; box-shadow: 0 0 30px rgba(0, 255, 65, 0.5), inset 0 0 30px rgba(0, 255, 65, 0.1); border: 2px solid #00FF41;"/>
       </td>
     </tr>
   </table>
