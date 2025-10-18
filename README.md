@@ -1,47 +1,41 @@
 <div align="center">
-  <img src=".Images/Hero_Banner.gif" alt="Header Animation" width="100%" style="max-width: 900px;"/>
-  <br/>
+  <img src="./Images/Hero_Banner.gif" alt="Header Animation" width="100%" style="max-width: 900px;"/>
     <h1 style="color: #00FF41; font-family: 'Courier New', monospace; font-size: 24px; text-shadow: 0 0 10px #00FF41; margin: 8px 0;">
-          ◢◣◥◤◢◣ ABHINAV MISHRA ◢◣◥◤◢◣
+          ﹞EGALE 🦇 CODER﹝
     </h1>
 </div>
 <div align="center">
   <table style="border-collapse: collapse; margin: 20px auto; background: linear-gradient(135deg, #0D1117, #1a1a2e); border-radius: 20px; overflow: hidden; box-shadow: 0 0 40px rgba(0, 255, 65, 0.3);">
     <tr>
       <td>
- <h3 style="color: #1E90FF; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #1E90FF; margin: 8px 0;">
+      <h1 style="color: #00FF41; font-family: 'Courier New', monospace; font-size: 19px; text-shadow: 0 0 10px #00FF41; margin: 8px 0;">
+          ◢◣◥◤◢◣ Full Stack Developer ◢◣◥◤◢◣
+    </h1>
+ <h3 style="color: #1E90FF; font-family: 'Courier New', monospace; font-size: 16px; text-shadow: 0 0 8px #1E90FF; margin: 8px 0;">
   ◥◤◢◣◥◤ MERN Stack Development & API Design ◥◤◢◣◥◤
 </h3>
 
-<h3 style="color: #ADFF2F; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #ADFF2F; margin: 8px 0;">
+<h3 style="color: #ADFF2F; font-family: 'Courier New', monospace; font-size: 16px; text-shadow: 0 0 8px #ADFF2F; margin: 8px 0;">
   ◢◣◥◤◢◣ Cloud Deployment & CI/CD Workflows ◢◣◥◤◢◣
 </h3>
 
-<h3 style="color: #FF8C00; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #FF8C00; margin: 8px 0;">
-  ◥◤◢◣◥◤ DSA & System Design Enthusiast ◥◤◢◣◥◤
-</h3>
-
-<h3 style="color: #FF4500; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #FF4500; margin: 8px 0;">
+<h3 style="color: #FF4500; font-family: 'Courier New', monospace; font-size: 16px; text-shadow: 0 0 8px #FF4500; margin: 8px 0;">
   ◢◣◥◤◢◣ RESTful & Secure API Development ◢◣◥◤◢◣
 </h3>
 
-  <h3 style="color: #FF69B4; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #FF69B4; margin: 8px 0;">
+  <h3 style="color: #FF69B4; font-family: 'Courier New', monospace; font-size: 16px; text-shadow: 0 0 8px #FF69B4; margin: 8px 0;">
     ◢◣◥◤◢◣ AI-Powered Development & Automation ◢◣◥◤◢◣
   </h3>
 
-<h3 style="color: #00CED1; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #00CED1; margin: 8px 0;">
-  ◢◣◥◤◢◣ Deno & Modern JavaScript Exploration ◢◣◥◤◢◣
-</h3>
-
-<h3 style="color: #FF69B4; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #FF69B4; margin: 8px 0;">
+<h3 style="color: #FF69B4; font-family: 'Courier New', monospace; font-size: 16px; text-shadow: 0 0 8px #FF69B4; margin: 8px 0;">
   ◥◤◢◣◥◤ Cybersecurity & Ethical Hacking Learner ◥◤◢◣◥◤
 </h3>
 
-<h3 style="color: #7FFF00; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #7FFF00; margin: 8px 0;">
+<h3 style="color: #7FFF00; font-family: 'Courier New', monospace; font-size: 16px; text-shadow: 0 0 8px #7FFF00; margin: 8px 0;">
   ◢◣◥◤◢◣ DevOps & Cloud Automation (Azure / AWS) ◢◣◥◤◢◣
 </h3>
       </td>
-      <td style="padding: 20px; vertical-align: middle; background: radial-gradient(circle, rgba(0, 255, 65, 0.1), transparent);">
+      <td style="padding: 10px; vertical-align: middle; background: radial-gradient(circle, rgba(0, 255, 65, 0.1), transparent);">
         <img src="./Images/Cyclon.gif" alt="Tech Animation" width="270" style="border-radius: 20px; box-shadow: 0 0 30px rgba(0, 255, 65, 0.5), inset 0 0 30px rgba(0, 255, 65, 0.1); border: 2px solid #00FF41;"/>
       </td>
     </tr>
