@@ -1,27 +1,171 @@
-# 💫 About Me:
-- 👋 Hi, I’m @ABHINAV MISHRA<br>- 👀 I’m interested in Web Developing & Data Science also<br>- 🌱 I’m currently learning MERN Technology<br>- 🌱I'm completing DSA in JAVA with solving Questions  <br>- 💞️ I’m looking to collaborate on <br>- 📫 E-mail :- ironabhi728@gmail.com
+<div align="center">
+  <img src=".Images/Hero_Banner.gif" alt="Header Animation" width="100%" style="max-width: 900px;"/>
+  <br/>
+    <h1 style="color: #00FF41; font-family: 'Courier New', monospace; font-size: 24px; text-shadow: 0 0 10px #00FF41; margin: 8px 0;">
+          ◢◣◥◤◢◣ ABHINAV MISHRA ◢◣◥◤◢◣
+    </h1>
+</div>
+<div align="center">
+  <table style="border-collapse: collapse; margin: 20px auto; background: linear-gradient(135deg, #0D1117, #1a1a2e); border-radius: 20px; overflow: hidden; box-shadow: 0 0 40px rgba(0, 255, 65, 0.3);">
+    <tr>
+      <td>
+ <h3 style="color: #1E90FF; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #1E90FF; margin: 8px 0;">
+  ◥◤◢◣◥◤ MERN Stack Development & API Design ◥◤◢◣◥◤
+</h3>
 
-Currently employed at DIGICODERS PVT. LTD. as a MERN Stack Developer, with core responsibilities encompassing API development, front-end engineering, Python programming, database management (DBMS), and version control using Git and GitHub. Possess strong expertise in Data Structures and Algorithms (DSA) with Java.
+<h3 style="color: #ADFF2F; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #ADFF2F; margin: 8px 0;">
+  ◢◣◥◤◢◣ Cloud Deployment & CI/CD Workflows ◢◣◥◤◢◣
+</h3>
+
+<h3 style="color: #FF8C00; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #FF8C00; margin: 8px 0;">
+  ◥◤◢◣◥◤ DSA & System Design Enthusiast ◥◤◢◣◥◤
+</h3>
+
+<h3 style="color: #FF4500; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #FF4500; margin: 8px 0;">
+  ◢◣◥◤◢◣ RESTful & Secure API Development ◢◣◥◤◢◣
+</h3>
+
+  <h3 style="color: #FF69B4; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #FF69B4; margin: 8px 0;">
+    ◢◣◥◤◢◣ AI-Powered Development & Automation ◢◣◥◤◢◣
+  </h3>
+
+<h3 style="color: #00CED1; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #00CED1; margin: 8px 0;">
+  ◢◣◥◤◢◣ Deno & Modern JavaScript Exploration ◢◣◥◤◢◣
+</h3>
+
+<h3 style="color: #FF69B4; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #FF69B4; margin: 8px 0;">
+  ◥◤◢◣◥◤ Cybersecurity & Ethical Hacking Learner ◥◤◢◣◥◤
+</h3>
+
+<h3 style="color: #7FFF00; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #7FFF00; margin: 8px 0;">
+  ◢◣◥◤◢◣ DevOps & Cloud Automation (Azure / AWS) ◢◣◥◤◢◣
+</h3>
+      </td>
+      <td style="padding: 20px; vertical-align: middle; background: radial-gradient(circle, rgba(0, 255, 65, 0.1), transparent);">
+        <img src="./Images/Cyclon.gif" alt="Tech Animation" width="270" style="border-radius: 20px; box-shadow: 0 0 30px rgba(0, 255, 65, 0.5), inset 0 0 30px rgba(0, 255, 65, 0.1); border: 2px solid #00FF41;"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Snake Animation - TOP ONLY -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</div>
+
+<!-- Profile Counters with Neon Effect -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ironabhi05&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/ironabhi05?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/badge/CARDIFF-WALES-red?style=for-the-badge&logo=github&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/STATUS-CODING-brightgreen?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Status"/>
+</div>
+<div align="center">
+<h3>✍️ Random Dev Quote</h3>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+## 📊 **GitHub Analytics - Data Visualization**
+
+<div align="center">
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=ironabhi05&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=00D4AA&text_color=FFFFFF&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=ironabhi05&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=00D4AA&text_color=FFFFFF&count_private=true&include_all_commits=true)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ironabhi05&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&langs_count=8"/>
+</div>
+
+<!-- Modified Streak Stats with Custom Values -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ironabhi05&theme=synthwave-84&hide_border=true&stroke=FF6EC7&background=0D1117&ring=00D4AA&fire=FF6EC7&currStreakLabel=00D4AA&dates=FFFFFF&currStreakNum=FF6EC7&sideNums=FF6EC7&sideLabels=FFFFFF" alt="GitHub Streak"/>
+</div>
+
+## 🛠️ **Tech Arsenal - Weapons of Creation**
+
+<div align="center">
+
+| **Tech Skills** |      |
+|:---:|:---:|
+| ** Frontend Mastery**<br><img src="https://skillicons.dev/icons?i=ts,vite,react,js,html,css,bootstrap,next,tailwind&theme=dark" alt="Frontend"/><br><br>** Backend & Cloud Power**<br><img src="https://skillicons.dev/icons?i=deno,nodejs,express,mysql,mongodb,netlify,gcp,azure&theme=dark" alt="Backend"/><br><br>** Development Arsenal**<br><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,visualstudio,ai,docker&theme=dark" alt="Tools"/><br><br>** Programming Languages**<br><img src="https://skillicons.dev/icons?i=python,js,java,cpp,nodejs&theme=dark" alt="Languages"/> | <img src="./Images/Tech_Image.gif" alt="Tech Animation" width="300"/> |
+
+</div>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pt_ironabhi_05/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-mishra-204bb028b/?trk=opento_sprofile_topcard) 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&height=80&lines=LET'S+BUILD+SOMETHING+AMAZING!;CONNECT+%26+COLLABORATE+🤝;OPEN+TO+NEW+OPPORTUNITIES!" alt="Connect Header"/>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ironabhi05 &theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ironabhi05 &theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ironabhi05 &theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Animated Connector Lines -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=2000&color=00D4AA&center=true&vCenter=true&width=500&height=30&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Connector"/>
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Social Links with GIF Side by Side -->
+<div align="center">
+  <table style="border-collapse: collapse; margin: 20px auto;">
+    <tr>
+      <td style="padding: 20px; vertical-align: middle;">
+        <!-- Party Animation GIF -->
+        <img src="./Images/walking_Man.gif" alt="Party Animation" width="200"/>
+      </td>
+      <td style="padding: 20px; vertical-align: middle;">
+        <!-- Social Links Table -->
+        <table style="border-collapse: collapse;">
+          <tr>
+            <td style="padding: 8px;">
+              <a href="mailto:ironabhi728@gmail.com">
+                <img src="https://img.shields.io/badge/📧_EMAIL-FF6EC7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=FF6EC7" alt="Email"/>
+              </a>
+            </td>
+            <td style="padding: 8px;">
+              <a href="https://www.linkedin.com/in/abhinav-mishra-204bb028b">
+                <img src="https://img.shields.io/badge/💼_LINKEDIN-00D4AA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=00D4AA" alt="LinkedIn"/>
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 8px;">
+              <a href="https://abhinavmishraportfolio.netlify.app/">
+                <img src="https://img.shields.io/badge/🌐_PORTFOLIO-FFD700?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0D1117&color=FFD700" alt="Portfolio"/>
+              </a>
+            </td>
+            <td style="padding: 8px;">
+              <a href="https://www.instagram.com/">
+                <img src="https://img.shields.io/badge/📸_INSTAGRAM-DC143C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117&color=DC143C" alt="Instagram"/>
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2" style="padding: 8px; text-align: center;">
+              <a href="tel:+447867034729">
+                <img src="https://img.shields.io/badge/📱_PHONE_+44_7867_034729-32CD32?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117&color=32CD32" alt="Phone"/>
+              </a>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🔝 Top Contributed Repo
-![]([https://github-contributor-stats.vercel.app/api?username=ironabhi05 &limit=5&theme=transparent&combine_all_yearly_contributions=true](https://github.com/ironabhi05/FirstApp))
+<!-- Call to Action -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=4000&pause=2000&color=00D4AA&center=true&vCenter=true&multiline=true&width=700&height=60&lines=💡+Got+an+exciting+project%3F+Let's+discuss!;🚀+Available+for+freelance+%26+full-time+opportunities" alt="Call to Action"/>
+</div>
+
+<!-- Decorative Footer -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=5000&pause=1000&color=888888&center=true&vCenter=true&width=400&height=25&lines=✨+Response+time%3A+Within+24+hours+✨" alt="Response Time"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ironabhi05 &icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📈 **GitHub Trophy Collection**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ironabhi05&theme=synthwave&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+---
+
+<!-- Winter Themed Sign Off -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Thanks+for+visiting+my+digital+workspace!;Let's+build+something+amazing+together!" alt="Sign Off"/>
+</div>
