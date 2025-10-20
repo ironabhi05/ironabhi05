@@ -150,7 +150,7 @@
 ## 📈 **GitHub Trophy Collection**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ironabhi05&theme=synthwave&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=EgaleCoder&theme=synthwave&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
