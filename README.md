@@ -58,13 +58,13 @@
 ## 📊 **GitHub Analytics - Data Visualization**
 
 <div align="center">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=ironabhi05&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=00D4AA&text_color=FFFFFF&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=ironabhi05&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=00D4AA&text_color=FFFFFF&count_private=true&include_all_commits=true)"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ironabhi05&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&langs_count=8"/>
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=EgaleCoder&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=00D4AA&text_color=FFFFFF&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=EgaleCoder&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=00D4AA&text_color=FFFFFF&count_private=true&include_all_commits=true)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgaleCoder&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&langs_count=8"/>
 </div>
 
 <!-- Modified Streak Stats with Custom Values -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ironabhi05&theme=synthwave-84&hide_border=true&stroke=FF6EC7&background=0D1117&ring=00D4AA&fire=FF6EC7&currStreakLabel=00D4AA&dates=FFFFFF&currStreakNum=FF6EC7&sideNums=FF6EC7&sideLabels=FFFFFF" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EgaleCoder&theme=synthwave-84&hide_border=true&stroke=FF6EC7&background=0D1117&ring=00D4AA&fire=FF6EC7&currStreakLabel=00D4AA&dates=FFFFFF&currStreakNum=FF6EC7&sideNums=FF6EC7&sideLabels=FFFFFF" alt="GitHub Streak"/>
 </div>
 
 ## 🛠️ **Tech Arsenal - Weapons of Creation**
