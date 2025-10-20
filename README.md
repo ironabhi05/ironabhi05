@@ -45,8 +45,8 @@
 
 <!-- Profile Counters with Neon Effect -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ironabhi05&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/ironabhi05?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=EgaleCoder&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/EgaleCoder?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github" alt="Followers"/>
   <img src="https://img.shields.io/badge/CARDIFF-WALES-red?style=for-the-badge&logo=github&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/STATUS-CODING-brightgreen?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Status"/>
 </div>
