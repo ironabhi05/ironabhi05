@@ -63,9 +63,10 @@
 </div>
 
 <!-- Modified Streak Stats with Custom Values -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EgaleCoder&theme=synthwave-84&hide_border=true&stroke=FF6EC7&background=0D1117&ring=00D4AA&fire=FF6EC7&currStreakLabel=00D4AA&dates=FFFFFF&currStreakNum=FF6EC7&sideNums=FF6EC7&sideLabels=FFFFFF" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=EgaleCoder&theme=synthwave-84&hide_border=true&stroke=FF6EC7&background=0D1117&ring=00D4AA&fire=FF6EC7&currStreakLabel=00D4AA&dates=FFFFFF&currStreakNum=FF6EC7&sideNums=FF6EC7&sideLabels=FFFFFF" alt="GitHub Streak"/>
+</p>
+
 
 ## 🛠️ **Tech Arsenal - Weapons of Creation**
 
